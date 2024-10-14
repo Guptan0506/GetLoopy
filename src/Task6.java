@@ -1,7 +1,7 @@
-public class Task5 {
+public class Task6 {
     public static void main(String[] args){
-        for (int m = 0; m < 6; m ++ ) {
-            for (int n = 0; n <= m; n ++) {
+        for (int a = 4; a >= 0; a--){
+            for (int b = 0; b <=a; b++){
                 System.out.print("*");
             }
             System.out.println();
