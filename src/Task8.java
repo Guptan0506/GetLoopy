@@ -3,9 +3,9 @@ import java.util.Random;
 public class Task8 {
     public static void main(String[] args){
         Random rand = new Random();
-        int d = 0;
-        int e = 1;
-        int f = 2;
+        int d;
+        int e;
+        int f;
         int counter = 0;
         int sum;
         boolean triple = false;
